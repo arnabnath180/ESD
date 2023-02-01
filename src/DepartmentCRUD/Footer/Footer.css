@@ -1,0 +1,8 @@
+.footer-container{
+    width: 100vw;
+    height: 40px;
+    background-color: black;
+    color: white;
+    margin-top: auto;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+h3{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+.empty{
+    text-align: center;
+}
+
+.dept:hover{
+    background-color: rgba(247, 247, 199, 0.897);
+}
